@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#3DDC84"
+    >
+
+    <TextView
+        android:id="@+id/lblListHeader_c"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="Child list"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="25sp"
+        />
+
+</LinearLayout>
